@@ -1,0 +1,172 @@
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Retuow.dll.config
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Retuow.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Retuow.pdb
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\csc.exe
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\csc.exe.config
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\csc.rsp
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\csi.exe
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\csi.exe.config
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\csi.rsp
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.AppContext.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Console.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.IO.Compression.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Security.Claims.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.ValueTuple.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\vbc.exe
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\vbc.exe.config
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\vbc.rsp
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\VBCSCompiler.exe
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Antlr3.Runtime.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Newtonsoft.Json.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Net.Http.Formatting.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Helpers.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Http.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Http.WebHost.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Mvc.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Optimization.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Razor.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.WebPages.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.WebPages.Razor.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\WebGrease.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Helpers.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Mvc.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Optimization.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Razor.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.WebPages.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.WebPages.Razor.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Newtonsoft.Json.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Antlr3.Runtime.pdb
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Net.Http.Formatting.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Http.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Web.Http.WebHost.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\obj\Debug\Retuow.csprojAssemblyReference.cache
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\obj\Debug\Retuow.csproj.CoreCompileInputs.cache
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\obj\Debug\Retuow.csproj.CopyComplete
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\obj\Debug\Retuow.dll
+C:\Users\Walter\Documents\Visual Studio 2017\Projects\Retuow\Retuow\obj\Debug\Retuow.pdb
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Retuow.dll.config
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Retuow.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Retuow.pdb
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\csc.exe
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\csc.exe.config
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\csc.rsp
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\csi.exe
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\csi.exe.config
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\csi.rsp
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.AppContext.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Collections.Immutable.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Console.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.IO.Compression.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.IO.FileSystem.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.IO.Pipes.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Reflection.Metadata.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Security.AccessControl.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Security.Claims.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.ValueTuple.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Xml.XPath.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\vbc.exe
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\vbc.exe.config
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\vbc.rsp
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\VBCSCompiler.exe
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\roslyn\VBCSCompiler.exe.config
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Antlr3.Runtime.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Microsoft.Web.Infrastructure.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Newtonsoft.Json.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Net.Http.Formatting.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Helpers.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Http.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Http.WebHost.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Mvc.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Optimization.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Razor.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.WebPages.Deployment.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.WebPages.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.WebPages.Razor.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\WebGrease.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Helpers.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Mvc.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Optimization.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Razor.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.WebPages.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.WebPages.Deployment.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.WebPages.Razor.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Newtonsoft.Json.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Antlr3.Runtime.pdb
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Net.Http.Formatting.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Http.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Web.Http.WebHost.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\obj\Debug\Retuow.csprojAssemblyReference.cache
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\obj\Debug\Retuow.csproj.CoreCompileInputs.cache
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\obj\Debug\Retuow.csproj.CopyComplete
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\obj\Debug\Retuow.dll
+D:\Retuow\DotNet\Retuow\Retuow\Retuow\obj\Debug\Retuow.pdb

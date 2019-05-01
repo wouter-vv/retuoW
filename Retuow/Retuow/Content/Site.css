@@ -1,0 +1,130 @@
+﻿/******
+    DEFAULT
+*******/
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color:lightgray;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+/************
+    ADD FONTS - BAD METHOD
+*************/
+@keyframes slideInFromLeft {
+    0% {
+        transform: translateX(-100%);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+/************
+    TEXT
+************/
+#startText {
+    position: relative;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
+#welcome, #lastname {
+    margin-top: 8rem;
+    font-size: 50px;
+}
+#firstname {
+    animation: 2s ease-out 0s 1 slideInFromLeft;
+    margin-top: 49px;
+    font-size: 10rem;
+}
+
+/**************
+    UNDERLINE
+**************/
+.primary-underline {
+    position: relative;
+    z-index: 0;
+}
+
+    .primary-underline:before {
+        content: '';
+        position: absolute;
+        z-index: -1;
+        bottom: 3px;
+        height: 0;
+        border: 4px solid #FFCC22;
+        border-radius: 10px;
+    }
+
+.welcome-underline:before {
+    left: -40vw;
+    right: -5%;
+}
+
+.firstname-underline:before {
+    left: 25%;
+    right: -5%;
+}
+
+.lastname-underline:before {
+    left: 25%;
+    right: -20%;
+}
+
+/***************
+    LINE CURVES
+****************/
+.linePartOne {
+    position: relative;
+    width: 100%;
+}
+
+.half-circle-right {
+    width: 110px;
+    height: 200px;
+    border-top-right-radius: 110px;
+    border-bottom-right-radius: 110px;
+    border: 8px solid #FFCC22;
+    border-left: 0;
+    position: absolute;
+    top: 60px;
+    right: -13%;
+}
+.linePartTwo {
+    position: relative;
+    width: 100%;
+}
+.half-circle-left {
+    width: 110px;
+    height: 160px;
+    border-top-left-radius: 110px;
+    border-bottom-left-radius: 110px;
+    border: 8px solid #FFCC22;
+    border-right: 0;
+    position: absolute;
+    top: 132px;
+    left: 16%;
+}
+
+
